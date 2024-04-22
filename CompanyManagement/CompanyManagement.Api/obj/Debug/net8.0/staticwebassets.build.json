@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "9NLle7QNLkY4CYIAl3BDsPSssO3Uut1+AMjgP+OcQm8=",
+  "Source": "CompanyManagement.Api",
+  "BasePath": "_content/CompanyManagement.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

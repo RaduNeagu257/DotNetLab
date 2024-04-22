@@ -1,0 +1,221 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Facultate\\BE\\CompanyManagement\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A1E437FF-6D6E-4B96-9BDA-0CF125B63FE1}|CompanyManagement.Api\\CompanyManagement.Api.csproj|c:\\facultate\\be\\companymanagement\\companymanagement.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A1E437FF-6D6E-4B96-9BDA-0CF125B63FE1}|CompanyManagement.Api\\CompanyManagement.Api.csproj|solutionrelative:companymanagement.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1E437FF-6D6E-4B96-9BDA-0CF125B63FE1}|CompanyManagement.Api\\CompanyManagement.Api.csproj|c:\\facultate\\be\\companymanagement\\companymanagement.api\\controllers\\departmentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1E437FF-6D6E-4B96-9BDA-0CF125B63FE1}|CompanyManagement.Api\\CompanyManagement.Api.csproj|solutionrelative:companymanagement.api\\controllers\\departmentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1E437FF-6D6E-4B96-9BDA-0CF125B63FE1}|CompanyManagement.Api\\CompanyManagement.Api.csproj|c:\\facultate\\be\\companymanagement\\companymanagement.api\\controllers\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1E437FF-6D6E-4B96-9BDA-0CF125B63FE1}|CompanyManagement.Api\\CompanyManagement.Api.csproj|solutionrelative:companymanagement.api\\controllers\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9560149F-9AD3-41F9-8CB2-CC624217C62D}|CompanyManagement.Core\\CompanyManagement.Core.csproj|c:\\facultate\\be\\companymanagement\\companymanagement.core\\mapping\\departmentmappingextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9560149F-9AD3-41F9-8CB2-CC624217C62D}|CompanyManagement.Core\\CompanyManagement.Core.csproj|solutionrelative:companymanagement.core\\mapping\\departmentmappingextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9560149F-9AD3-41F9-8CB2-CC624217C62D}|CompanyManagement.Core\\CompanyManagement.Core.csproj|c:\\facultate\\be\\companymanagement\\companymanagement.core\\dtos\\request\\departmentrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9560149F-9AD3-41F9-8CB2-CC624217C62D}|CompanyManagement.Core\\CompanyManagement.Core.csproj|solutionrelative:companymanagement.core\\dtos\\request\\departmentrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9560149F-9AD3-41F9-8CB2-CC624217C62D}|CompanyManagement.Core\\CompanyManagement.Core.csproj|c:\\facultate\\be\\companymanagement\\companymanagement.core\\services\\departmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9560149F-9AD3-41F9-8CB2-CC624217C62D}|CompanyManagement.Core\\CompanyManagement.Core.csproj|solutionrelative:companymanagement.core\\services\\departmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9560149F-9AD3-41F9-8CB2-CC624217C62D}|CompanyManagement.Core\\CompanyManagement.Core.csproj|c:\\facultate\\be\\companymanagement\\companymanagement.core\\services\\idepartmentserviceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9560149F-9AD3-41F9-8CB2-CC624217C62D}|CompanyManagement.Core\\CompanyManagement.Core.csproj|solutionrelative:companymanagement.core\\services\\idepartmentserviceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9560149F-9AD3-41F9-8CB2-CC624217C62D}|CompanyManagement.Core\\CompanyManagement.Core.csproj|c:\\facultate\\be\\companymanagement\\companymanagement.core\\dtos\\response\\employeeresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9560149F-9AD3-41F9-8CB2-CC624217C62D}|CompanyManagement.Core\\CompanyManagement.Core.csproj|solutionrelative:companymanagement.core\\dtos\\response\\employeeresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9560149F-9AD3-41F9-8CB2-CC624217C62D}|CompanyManagement.Core\\CompanyManagement.Core.csproj|c:\\facultate\\be\\companymanagement\\companymanagement.core\\mapping\\employeemappingextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9560149F-9AD3-41F9-8CB2-CC624217C62D}|CompanyManagement.Core\\CompanyManagement.Core.csproj|solutionrelative:companymanagement.core\\mapping\\employeemappingextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9560149F-9AD3-41F9-8CB2-CC624217C62D}|CompanyManagement.Core\\CompanyManagement.Core.csproj|c:\\facultate\\be\\companymanagement\\companymanagement.core\\dtos\\response\\departmentresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9560149F-9AD3-41F9-8CB2-CC624217C62D}|CompanyManagement.Core\\CompanyManagement.Core.csproj|solutionrelative:companymanagement.core\\dtos\\response\\departmentresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E17DEE0-F98C-4693-9E57-3B4D4C94D099}|CompanyManagement.Database\\CompanyManagement.Database.csproj|c:\\facultate\\be\\companymanagement\\companymanagement.database\\migrations\\20240421104731_company.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E17DEE0-F98C-4693-9E57-3B4D4C94D099}|CompanyManagement.Database\\CompanyManagement.Database.csproj|solutionrelative:companymanagement.database\\migrations\\20240421104731_company.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E17DEE0-F98C-4693-9E57-3B4D4C94D099}|CompanyManagement.Database\\CompanyManagement.Database.csproj|c:\\facultate\\be\\companymanagement\\companymanagement.database\\migrations\\20240421104731_company.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E17DEE0-F98C-4693-9E57-3B4D4C94D099}|CompanyManagement.Database\\CompanyManagement.Database.csproj|solutionrelative:companymanagement.database\\migrations\\20240421104731_company.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{c9c0ae26-aa77-11d2-b3f0-0000f87570ee}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Facultate\\BE\\CompanyManagement\\CompanyManagement.Api\\appsettings.json",
+              "RelativeDocumentMoniker": "CompanyManagement.Api\\appsettings.json",
+              "ToolTip": "C:\\Facultate\\BE\\CompanyManagement\\CompanyManagement.Api\\appsettings.json",
+              "RelativeToolTip": "CompanyManagement.Api\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-22T15:39:56.217Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IDepartmentServiceService.cs",
+              "DocumentMoniker": "C:\\Facultate\\BE\\CompanyManagement\\CompanyManagement.Core\\Services\\IDepartmentServiceService.cs",
+              "RelativeDocumentMoniker": "CompanyManagement.Core\\Services\\IDepartmentServiceService.cs",
+              "ToolTip": "C:\\Facultate\\BE\\CompanyManagement\\CompanyManagement.Core\\Services\\IDepartmentServiceService.cs",
+              "RelativeToolTip": "CompanyManagement.Core\\Services\\IDepartmentServiceService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-21T10:53:18.616Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "EmployeeResponseDto.cs",
+              "DocumentMoniker": "C:\\Facultate\\BE\\CompanyManagement\\CompanyManagement.Core\\Dtos\\Response\\EmployeeResponseDto.cs",
+              "RelativeDocumentMoniker": "CompanyManagement.Core\\Dtos\\Response\\EmployeeResponseDto.cs",
+              "ToolTip": "C:\\Facultate\\BE\\CompanyManagement\\CompanyManagement.Core\\Dtos\\Response\\EmployeeResponseDto.cs",
+              "RelativeToolTip": "CompanyManagement.Core\\Dtos\\Response\\EmployeeResponseDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-21T10:53:17.63Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "EmployeeMappingExtensions.cs",
+              "DocumentMoniker": "C:\\Facultate\\BE\\CompanyManagement\\CompanyManagement.Core\\Mapping\\EmployeeMappingExtensions.cs",
+              "RelativeDocumentMoniker": "CompanyManagement.Core\\Mapping\\EmployeeMappingExtensions.cs",
+              "ToolTip": "C:\\Facultate\\BE\\CompanyManagement\\CompanyManagement.Core\\Mapping\\EmployeeMappingExtensions.cs",
+              "RelativeToolTip": "CompanyManagement.Core\\Mapping\\EmployeeMappingExtensions.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-21T10:53:16.506Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DepartmentService.cs",
+              "DocumentMoniker": "C:\\Facultate\\BE\\CompanyManagement\\CompanyManagement.Core\\Services\\DepartmentService.cs",
+              "RelativeDocumentMoniker": "CompanyManagement.Core\\Services\\DepartmentService.cs",
+              "ToolTip": "C:\\Facultate\\BE\\CompanyManagement\\CompanyManagement.Core\\Services\\DepartmentService.cs",
+              "RelativeToolTip": "CompanyManagement.Core\\Services\\DepartmentService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-21T10:53:13.381Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "DepartmentResponseDto.cs",
+              "DocumentMoniker": "C:\\Facultate\\BE\\CompanyManagement\\CompanyManagement.Core\\Dtos\\Response\\DepartmentResponseDto.cs",
+              "RelativeDocumentMoniker": "CompanyManagement.Core\\Dtos\\Response\\DepartmentResponseDto.cs",
+              "ToolTip": "C:\\Facultate\\BE\\CompanyManagement\\CompanyManagement.Core\\Dtos\\Response\\DepartmentResponseDto.cs",
+              "RelativeToolTip": "CompanyManagement.Core\\Dtos\\Response\\DepartmentResponseDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-21T10:53:12.616Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DepartmentMappingExtensions.cs",
+              "DocumentMoniker": "C:\\Facultate\\BE\\CompanyManagement\\CompanyManagement.Core\\Mapping\\DepartmentMappingExtensions.cs",
+              "RelativeDocumentMoniker": "CompanyManagement.Core\\Mapping\\DepartmentMappingExtensions.cs",
+              "ToolTip": "C:\\Facultate\\BE\\CompanyManagement\\CompanyManagement.Core\\Mapping\\DepartmentMappingExtensions.cs",
+              "RelativeToolTip": "CompanyManagement.Core\\Mapping\\DepartmentMappingExtensions.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-21T10:53:10.977Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EmployeesController.cs",
+              "DocumentMoniker": "C:\\Facultate\\BE\\CompanyManagement\\CompanyManagement.Api\\Controllers\\EmployeesController.cs",
+              "RelativeDocumentMoniker": "CompanyManagement.Api\\Controllers\\EmployeesController.cs",
+              "ToolTip": "C:\\Facultate\\BE\\CompanyManagement\\CompanyManagement.Api\\Controllers\\EmployeesController.cs",
+              "RelativeToolTip": "CompanyManagement.Api\\Controllers\\EmployeesController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-21T10:49:22.192Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DepartmentsController.cs",
+              "DocumentMoniker": "C:\\Facultate\\BE\\CompanyManagement\\CompanyManagement.Api\\Controllers\\DepartmentsController.cs",
+              "RelativeDocumentMoniker": "CompanyManagement.Api\\Controllers\\DepartmentsController.cs",
+              "ToolTip": "C:\\Facultate\\BE\\CompanyManagement\\CompanyManagement.Api\\Controllers\\DepartmentsController.cs",
+              "RelativeToolTip": "CompanyManagement.Api\\Controllers\\DepartmentsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-21T10:49:01.757Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DepartmentRequestDto.cs",
+              "DocumentMoniker": "C:\\Facultate\\BE\\CompanyManagement\\CompanyManagement.Core\\Dtos\\Request\\DepartmentRequestDto.cs",
+              "RelativeDocumentMoniker": "CompanyManagement.Core\\Dtos\\Request\\DepartmentRequestDto.cs",
+              "ToolTip": "C:\\Facultate\\BE\\CompanyManagement\\CompanyManagement.Core\\Dtos\\Request\\DepartmentRequestDto.cs",
+              "RelativeToolTip": "CompanyManagement.Core\\Dtos\\Request\\DepartmentRequestDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-21T10:53:48.263Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "20240421104731_Company.cs",
+              "DocumentMoniker": "C:\\Facultate\\BE\\CompanyManagement\\CompanyManagement.Database\\Migrations\\20240421104731_Company.cs",
+              "RelativeDocumentMoniker": "CompanyManagement.Database\\Migrations\\20240421104731_Company.cs",
+              "ToolTip": "C:\\Facultate\\BE\\CompanyManagement\\CompanyManagement.Database\\Migrations\\20240421104731_Company.cs",
+              "RelativeToolTip": "CompanyManagement.Database\\Migrations\\20240421104731_Company.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-21T10:48:39.052Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "20240421104731_Company.Designer.cs",
+              "DocumentMoniker": "C:\\Facultate\\BE\\CompanyManagement\\CompanyManagement.Database\\Migrations\\20240421104731_Company.Designer.cs",
+              "RelativeDocumentMoniker": "CompanyManagement.Database\\Migrations\\20240421104731_Company.Designer.cs",
+              "ToolTip": "C:\\Facultate\\BE\\CompanyManagement\\CompanyManagement.Database\\Migrations\\20240421104731_Company.Designer.cs",
+              "RelativeToolTip": "CompanyManagement.Database\\Migrations\\20240421104731_Company.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-21T10:48:25.194Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
